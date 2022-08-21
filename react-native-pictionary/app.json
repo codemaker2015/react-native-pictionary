@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-pictionary",
+    "slug": "react-native-pictionary",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-pictionary"
+}
